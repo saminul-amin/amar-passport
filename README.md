@@ -20,6 +20,12 @@ A comprehensive Bangladesh E-Passport application readiness portal that helps ci
 
 ---
 
+## Video Walkthrough
+
+[Click here to watch the full walkthrough!](https://drive.google.com/file/d/16gLIQfeQ72jZDl5dvCeElf51fNUaWSEk/view?usp=sharing)
+
+---
+
 ## Getting Started
 
 ### Prerequisites
