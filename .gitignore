@@ -1,0 +1,41 @@
+# ── Python ────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.manifest
+*.spec
+
+# ── Virtual Environment ──────────────────────────────────────
+.venv/
+venv/
+ENV/
+env/
+
+# ── Environment Variables / Secrets ──────────────────────────
+.env
+.env.local
+.env.production
+
+# ── IDE / Editor ─────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# ── Streamlit ────────────────────────────────────────────────
+.streamlit/secrets.toml
+
+# ── Logs ─────────────────────────────────────────────────────
+*.log
+
+# ── OS Files ─────────────────────────────────────────────────
+.DS_Store
+Desktop.ini
